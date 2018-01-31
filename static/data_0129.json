@@ -1,0 +1,70 @@
+{
+  "date":"1月29号. 2018",
+  "title":"周一海鲜",
+  "news":{
+    "tipsD":"周一聚焦",
+    "title":"供应和贸易",
+    "data":[
+      {
+        "id": 1,
+        "dateImg": "static/assets/0129_01.jpg",
+        "imgTitle": "SeaPak首个冷冻零售品牌在包装上使用Buzzfeed Tasty标志",
+        "dateTime": "美国SeaPak海鲜公司位于佐治亚州，是首家在包装上采用Buzzfeed Tasty标志销售的冷冻零售品牌。未来的六个月里，SeaPak还将在海鳌虾的包装上采用“Tasty”标志的形象。该标志是SeaPak与Tasty合作的最新产品，Buzzfeed在Facebook上也有专门专注于食品的频道。",
+        "url": "http://seafood.com/Story/1090264/SeaPak-First-Frozen-Retail-Brand-to-Feature-Buzzfeed-Tasty-Logo-on-Packaging"
+      },
+      {
+        "id":2,
+        "dateImg":"static/assets/0129_02.jpg",
+        "imgTitle":"一月寒流可能会影响格鲁吉亚和南卡罗来纳州的虾类渔业",
+        "dateTime":"由于东南部近期的寒流，佐治亚州和南卡罗来纳州的联邦和州虾捕捞水域已经关闭。虽然光顾杂货店和餐厅的消费者不会立即受到影响，但春季时影响或将显现。南卡罗来纳州的捕虾季节通常在四、五月份重新开放，但由于近年来冬季寒冷，开放时间屡遭延期。",
+        "url":"http://seafood.com/Story/1090234/January-Cold-Snap-May-Impact-Georgia-and-South-Carolina-Shrimp-Fisheries"
+      },
+      {
+        "id":3,
+        "dateImg":"static/assets/0129_03.jpg",
+        "imgTitle":"阿拉斯加海洋基金资助6个新的研究项目",
+        "dateTime":"阿拉斯加海洋基金选择了六个研究项目，将在2018年和2020年之间给予资助。阿拉斯加海洋基金共收到47个预先提案和18个完整的资助申请提案。在这些提案中，该组织选择了六个项目，将提供130万美元来资助这些研究项目。",
+        "url":"http://seafood.com/Story/1090261/Alaska-Sea-Grant-Funding-6-New-Research-Projects"
+      },
+      {
+        "id":4,
+        "dateImg":"static/assets/0129_04.jpg",
+        "imgTitle":"法国渔民暴动抗议脉冲电击捕鱼",
+        "dateTime":"法国渔民已经封锁了加莱港和布洛涅港，抗议使用电网进行捕鱼的脉冲捕鱼方式。渔船用于阻止进入或离开加莱港的渡轮，同时设置路障中断来往布洛涅港的交通。加莱港是英法两国之间重要的连接点，每日接待数千名游客及货车通行。最近欧盟议会投票决定禁止脉冲捕鱼，该方式主要在荷兰使用。",
+        "url":"http://seafood.com/Story/1090233/French-Fishermen-Riot-Protesting-Electified-Beam-Trawls"
+      },
+      {
+        "id":5,
+        "dateImg":"static/assets/0129_05.jpg",
+        "imgTitle":"加拿大渔业面临巨大变化",
+        "dateTime":"加拿大联邦政府目前执意对该国“渔业法案”进行修改，这些修正案对加拿大大西洋沿海渔民和加工商尤其构成威胁。渔业的重要性不言而喻 - 该行业直接影响着8万个就业机会和66亿美元的出口额 - 而间接经济影响要大得多。",
+        "url":"http://seafood.com/Story/1090262/Fisheries-Madness-in-Canada-Opinion"
+      }
+    ]
+  },
+  "ad":[
+    { "dateImg":"","url":""}
+  ],
+  "products":{
+    "tips":"今日聚焦",
+    "title":"海鲜产品",
+    "data":[
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      },
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      }
+    ]
+  }
+}

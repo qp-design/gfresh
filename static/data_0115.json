@@ -1,0 +1,77 @@
+{
+  "date":"1月15号. 2018",
+  "title":"周一海鲜",
+  "news":{
+    "tipsD":"周一聚焦",
+    "title":"供应和贸易",
+    "data":[
+      {
+        "id": 1,
+        "dateImg": "static/assets/15_01.jpg",
+        "imgTitle": "中国境内连日来的严寒天气使活鲜鱼产品运输卡车遭遇滞留",
+        "dateTime": "中国境内部分地区连日来气温跌至冰点以下，遭受如同北美部分地区正在经历的“暴风雪连击”，使活鲜鱼产品运输面临极大困境。",
+        "url": "https://www.undercurrentnews.com/2018/01/12/trucks-transporting-live-fish-stranded-as-cold-weather-grips-china/"
+      },
+      {
+        "id":2,
+        "dateImg":"static/assets/15_02.jpg",
+        "imgTitle":"挪威海产品委员会将推出“每周食用三次海鲜产品”的宣传活动，旨在扭转挪威海鲜消费量下降15％的态势",
+        "dateTime":"挪威海产品委员会（NSC）表示，2017年挪威海鲜消费量下降了15％，因此将推出宣传活动提高该国人均海鲜消费量。",
+        "url":"https://www.undercurrentnews.com/2018/01/12/nsc-to-launch-three-per-week-campaign-as-norwegian-seafood-consumption-falls-15/"
+      },
+      {
+        "id":3,
+        "dateImg":"static/assets/15_03.jpg",
+        "imgTitle":"荷兰合作银行：未来十年中国将带动全球海鲜消费增长的一半以上",
+        "dateTime":"根据一项新的荷兰合作银行（Rabobank）的报告，强调未来几年中国将对全球海产业产生巨大影响。未来十年，全球海产品和水产养殖产品消费总量增长的53％将来自于中国。",
+        "url":"https://www.undercurrentnews.com/2018/01/12/rabobank-china-to-drive-more-than-half-of-global-seafood-consumption-growth-over-next-decade/"
+      },
+      {
+        "id":4,
+        "dateImg":"static/assets/15_04.jpg",
+        "imgTitle":"美国加州珍宝蟹渔季将于1月15日开放，价格问题引发担忧",
+        "dateTime":"美国加州珍宝蟹商业捕捞渔季在多次延迟后开放，届时渔民将能够开始放置捕捞设备，但这并不一定意味着立即能捕捞到高品质的珍宝蟹。",
+        "url":"http://www.seafoodnews.com/Story/1088736/Pricing-a-Concern-as-Commercial-Dungeness-Crab-Season-Prepares-To-Open-on-January-15"
+      },
+      {
+        "id":5,
+        "dateImg":"static/assets/15_05.jpg",
+        "imgTitle":"欧盟在英国“脱欧”期间将暂停与英国的捕捞配额谈判",
+        "dateTime":"据英国《卫报》报道，欧盟在“脱欧”两年过渡期间将暂停与英国就英国海域捕捞配额的重新谈判。",
+        "url":"http://www.seafoodnews.com/Story/1088750/EU-to-Hold-Britain-to-Fishing-Quotas-During-Brexit-Transition"
+      },
+      {
+        "id":6,
+        "dateImg":"static/assets/15_06.jpg",
+        "imgTitle":"苏格兰三文鱼公司采用最先进的新型饲料驳船",
+        "dateTime":"苏格兰三文鱼公司正计划投资2018年的运营基础设施。该公司周五宣布，Gael Force Group正在其位于Portree的工厂建造一个最先进的SeaMate新型饲料驳船。",
+        "url":"http://www.seafoodnews.com/Story/1088758/Scottish-Salmon-Company-Commissions-New-State-of-the-Art-Feed-Barge"
+      }
+    ]
+  },
+  "ad":[
+    { "dateImg":"","url":""}
+  ],
+  "products":{
+    "tips":"今日聚焦",
+    "title":"海鲜产品",
+    "data":[
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      },
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      }
+    ]
+  }
+}

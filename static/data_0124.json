@@ -1,0 +1,77 @@
+{
+  "date":"1月24号. 2018",
+  "title":"周三海鲜",
+  "news":{
+    "tipsD":"周三聚焦",
+    "title":"供应和贸易",
+    "data":[
+      {
+        "id": 1,
+        "dateImg": "static/assets/0124_01.jpg",
+        "imgTitle": "罗得岛野生贝类捕捞引入强制性计划",
+        "dateTime": "美国罗得岛环境管理部已对野生贝类的商业捕捞者引入强制教育和认证计划。这将提高消费者购买到贝类的食品安全性。“该计划的目标是确保贝类捕捞者向贝类经销商以及消费者提供安全的产品。”",
+        "url": "http://seafood.com/Story/1089729/Rhode-Island-Wild-Shellfish-Harvesters-to-Complete-Mandatory-Program"
+      },
+      {
+        "id":2,
+        "dateImg":"static/assets/0124_02.jpg",
+        "imgTitle":"亚洲鳗鱼捕捞量创历史新低",
+        "dateTime":"烤鳗鱼一直以来是日本料理的主食，但也许很快会成为稀缺食品 - 本年度鳗鱼的捕捞量已经创下历史新低，价格已经上涨了三倍多。在日本和中国等主要的鳗鱼捕捞国家，到目前为止渔民本季捕捞的小鳗鱼数量不到一吨，占2013年捕捞季历史低点的一小部分。",
+        "url":"http://seafood.com/Story/1089730/Baby-Eel-Catches-in-Asia-At-Record-Low"
+      },
+      {
+        "id":3,
+        "dateImg":"static/assets/0124_03.jpg",
+        "imgTitle":"越南湄公河三角洲的巴沙鱼价格保持高位",
+        "dateTime":"越南巴沙鱼的价格目前保持每公斤27,000-29,000越南盾的高位水平，湄公河三角洲地区的养殖者仍可获得可观的利润。越南安江省是近年来在巴沙鱼养殖、加工和出口方面具有优势的地区之一。由于良好的生产和消费情况，养殖者和加工企业也倍感兴奋。Nam Viet Corporation（Navico）董事长Doan Toi先生说，今年初以来，鱼类出口一直在增加，预计1月份出口成交约1200万美元，增长近400万美元。",
+        "url":"http://seafood.com/Story/1089740/Pangasius-Fish-Price-Remains-High-in-Vietnams-Mekong-Delta"
+      },
+      {
+        "id":4,
+        "dateImg":"static/assets/0124_04.jpg",
+        "imgTitle":"温暖水域或导致缅因湾海域龙虾种群减少",
+        "dateTime":"据周一公布的一项研究报告，由于海水温度上升，缅因州龙虾种群将在未来30年内萎缩40％至62％。随着水温的升高，大西洋西北海域的温度升高了全球平均水平的三倍 - 在第一年生存下来的龙虾卵的数量将会减少，同时以龙虾为食物的小型捕食者数量将会随之增加。这些影响会导致龙虾种群减少。",
+        "url":"http://seafood.com/Story/1089728/Warming-Waters-Likely-to-Lead-to-Lower-Lobster-Populations-in-Gulf-of-Maine"
+      },
+      {
+        "id":5,
+        "dateImg":"static/assets/0124_05.jpg",
+        "imgTitle":"京东称中国消费者倾向选择更加可持续的产品",
+        "dateTime":"京东近日发布报告称中国消费者希望购买更加可持续的产品。报告认为，可持续或“绿色”消费已成为中国关注的焦点，在环保理念深入中国消费者意识的形势下，这一趋势将会不断增长。根据中国最大零售商发布的“绿色消费趋势”报告，中国消费者现在比以往任何时候都希望购买更多的绿色产品，而且绿色产品涵盖更加广泛的类别。",
+        "url":"http://seafood.com/Story/1089776/JDcom-Says-Chinese-Consumers-Embracing-More-Sustainable-Products"
+      },
+      {
+        "id":6,
+        "dateImg":"static/assets/0124_06.jpg",
+        "imgTitle":"中国罗非鱼价格上涨; 近所有加工厂均提高采购价格",
+        "dateTime":"近日中国虾和鱼产品的价格均不断上涨。自今年初以来，罗非鱼价格已经连续三次上涨。在本周数据统计期间，部分地区的价格猛涨了0.5元/斤（〜$ 0.16 / kg美元）。 1月16日，中国罗非鱼价格指数报告为0.6-0.1斤（0.3-0.5公斤）的中国罗非鱼价格指数为101.06分，1斤到1.6斤（0.5-0.8公斤）的中国罗非鱼价格指数为100.29分，价格指数上升了2.07分。",
+        "url":"http://seafood.com/Story/1089765/Chinese-Tilapia-Prices-Increase-Nearly-All-Processing-Plants-Raise-Purchase-Prices"
+      }
+    ]
+  },
+  "ad":[
+    { "dateImg":"","url":""}
+  ],
+  "products":{
+    "tips":"今日聚焦",
+    "title":"海鲜产品",
+    "data":[
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      },
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      }
+    ]
+  }
+}

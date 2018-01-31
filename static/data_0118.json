@@ -1,0 +1,77 @@
+{
+  "date":"1月18号. 2018",
+  "title":"周四海鲜",
+  "news":{
+    "tipsD":"周四聚焦",
+    "title":"供应和贸易",
+    "data":[
+      {
+        "id": 1,
+        "dateImg": "static/assets/018_01.jpg",
+        "imgTitle": "澳大利亚对阿根廷虾产品开放进口市场仍未明朗",
+        "dateTime": "众多阿根廷虾出口商对是否能出口虾产品到澳大利亚市场仍心存疑虑，主要考虑到检查周期长且缺乏对澳大利亚市场准入产品的了解。但澳大利亚方面进口商对市场开放持乐观态度。",
+        "url": "https://www.undercurrentnews.com/2018/01/17/opening-of-australian-market-for-argentine-shrimp-still-unclear/"
+      },
+      {
+        "id":2,
+        "dateImg":"static/assets/018_02.jpg",
+        "imgTitle":"美国加利福尼亚州向岩石蟹商业捕捞开放更多区域，软骨藻酸担忧逐渐消退",
+        "dateTime":"美国加州渔业官员进一步拓展海岸线开放区域用于岩石蟹商业捕捞，之前关闭某些区域主要由于过高的软骨藻酸水平引发担忧。",
+        "url":"https://www.undercurrentnews.com/2018/01/17/california-extends-rock-crab-fishing-as-domoic-acid-concerns-ebb/"
+      },
+      {
+        "id":3,
+        "dateImg":"static/assets/018_03.jpg",
+        "imgTitle":"摩洛哥章鱼价格持续上涨",
+        "dateTime":"今年1月摩洛哥章鱼价格继续大幅上涨，刷新去年历史纪录涨幅。",
+        "url":"https://www.undercurrentnews.com/2018/01/17/moroccan-octopus-prices-continue-to-strengthen/"
+      },
+      {
+        "id":4,
+        "dateImg":"static/assets/018_04.jpg",
+        "imgTitle":"越南鲶鱼供给短缺引发价格上涨或持续至2019年",
+        "dateTime":"越南鲶鱼的价格已经上涨至近年来历史价格的高位，部分原因是可能持续到2019年的幼苗短缺造成的。",
+        "url":"https://www.undercurrentnews.com/2018/01/16/pangasius-prices-spike-on-shortage-which-could-last-until-2019/"
+      },
+      {
+        "id":5,
+        "dateImg":"static/assets/018_05.jpg",
+        "imgTitle":"美国科迪亚克雪蟹商业捕捞四年来首次开放",
+        "dateTime":"1月15日，美国科迪亚克的雪蟹商业捕捞四年来首次开放，阿拉斯加消费者可在开放捕捞即日起预先订购美味的雪蟹产品。",
+        "url":"http://www.seafoodnews.com/Login.aspx?ReturnUrl=/SearchStory/Crab/1088965"
+      },
+      {
+        "id":6,
+        "dateImg":"static/assets/018_06.jpg",
+        "imgTitle":"美国弗吉尼亚海鲜公司被指控为蓝蟹标签做假",
+        "dateTime":"美国佛吉尼亚一家海鲜公司（Casey's Seafood）总裁周五被Newport News联邦法院指控，将外国海域进口蟹产品张贴假标签为更加昂贵的大西洋蓝蟹进行销售。",
+        "url":"http://www.seafoodnews.com/Login.aspx?ReturnUrl=/SearchStory/Crab/1088865"
+      }
+    ]
+  },
+  "ad":[
+    { "dateImg":"","url":""}
+  ],
+  "products":{
+    "tips":"今日聚焦",
+    "title":"海鲜产品",
+    "data":[
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      },
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      }
+    ]
+  }
+}

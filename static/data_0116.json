@@ -1,0 +1,84 @@
+{
+  "date":"1月16号. 2018",
+  "title":"周二海鲜",
+  "news":{
+    "tipsD":"周二聚焦",
+    "title":"供应和贸易",
+    "data":[
+      {
+        "id": 1,
+        "dateImg": "static/assets/16_01.jpg",
+        "imgTitle": "俄罗斯或迎来蟹类捕捞配额分配制度改革，蟹产品公司面临危机",
+        "dateTime": "俄罗斯蟹类配额分配制度将于2018年底到期，此次政府即将进行的制度改革将对俄罗斯蟹产品行业产生重大影响。",
+        "url": "https://www.seafoodsource.com/commentary/crab-companies-in-russia-face-crisis-as-putin-mules-change-to-quota-allocations"
+      },
+      {
+        "id":2,
+        "dateImg":"static/assets/16_02.jpg",
+        "imgTitle":"中国市场首次引进经MSC认证的John West 金枪鱼罐头产品",
+        "dateTime":"据John West公司的供应商Pacifical称，经海洋管理委员会（MSC）认证的John West金枪鱼罐头产品已正式进入中国的多家零售门店进行销售。",
+        "url":"https://www.seafoodsource.com/news/foodservice-retail/msc-certified-john-west-canned-tuna-introduced-in-china"
+      },
+      {
+        "id":3,
+        "dateImg":"static/assets/16_03.jpg",
+        "imgTitle":"美国沃尔玛旗下山姆会员店转向直接采购，导致原始供应商Red Chamber集团对其产品大幅降价销售",
+        "dateTime":"美国沃尔玛旗下山姆会员店正转向更多海鲜供应商进行直接采购，这一举动导致其原始供应商Red Chamber集团价值2.75亿美元的业务受到直接影响。Red Chamber集团是位于佛罗里达州的大型海鲜产品进口和加工公司。",
+        "url":"https://www.undercurrentnews.com/2018/01/11/sams-club-to-source-more-direct-cost-red-chambers-tampa-bay-massive-sales/"
+      },
+      {
+        "id":4,
+        "dateImg":"static/assets/16_04.jpg",
+        "imgTitle":"加拿大Tradex：阿根廷红虾价格随需求上涨",
+        "dateTime":"根据加拿大不列颠哥伦比亚省的海鲜商家Tradex报道，阿根廷红虾产品在北美广受欢迎且难以采购，导致其价格正在不断上涨。",
+        "url":"https://www.undercurrentnews.com/2018/01/15/tradex-price-of-argentina-shrimp-going-up-with-demand/"
+      },
+      {
+        "id":5,
+        "dateImg":"static/assets/16_05.jpg",
+        "imgTitle":"韩国计划在俄罗斯投资5亿美元打造鳕鱼加工工厂",
+        "dateTime":"据俄罗斯最大的渔民协会和俄罗斯农业部门最近发表的声明，韩国计划投资5亿美元在俄罗斯建立几家专门从事俄罗斯鳕鱼加工的大型工厂。",
+        "url":"http://www.seafoodnews.com/Story/1088895/South-Korea-Plans-US-500-Million-Investment-in-Pollock-Processing-Factories-in-Russia"
+      },
+      {
+        "id":6,
+        "dateImg":"static/assets/16_06.jpg",
+        "imgTitle":"瑞士出台龙虾新政引发餐饮行业广泛关注",
+        "dateTime":"近日，瑞士政府出台新政禁止烹饪活龙虾，同时停止运输用冰块包装的鲜活龙虾，并坚持应使用能够还原其自然生长环境的物品进行运输。此举同时引发餐饮行业的广泛关注。",
+        "url":"http://www.seafoodnews.com/Story/1088872/Swiss-Restaurant-Owners-Concerned-Over-New-Lobster-Regulations"
+      },
+      {
+        "id":7,
+        "dateImg":"static/assets/16_07.jpg",
+        "imgTitle":"水产养殖渔场海虱成疾，对苏格兰、爱尔兰和挪威水域的野生三文鱼带来致命威胁",
+        "dateTime":"在商业三文鱼养殖场繁殖的海虱，正对苏格兰、爱尔兰和挪威水域的野生鱼类造成致命威胁。目前已有100多篇科学研究论文表明，挪威已有三万多只野生三文鱼因寄生虫导致死亡。 苏格兰和爱尔兰也有类似情况发生，这意味着密集型的三文鱼养殖具有“普遍和负面的影响”。",
+        "url":"http://www.seafoodnews.com/Story/1088867/Fish-Farm-Lice-are-Killing-Wild-Salmon-In-Scottish-Irish-and-Norwegian-Waters"
+      }
+    ]
+  },
+  "ad":[
+    { "dateImg":"","url":""}
+  ],
+  "products":{
+    "tips":"今日聚焦",
+    "title":"海鲜产品",
+    "data":[
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      },
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      }
+    ]
+  }
+}

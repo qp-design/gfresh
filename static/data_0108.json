@@ -1,0 +1,77 @@
+{
+  "date":"1月08号. 2018",
+  "title":"周一海鲜",
+  "news":{
+    "tipsD":"周一聚焦",
+    "title":"供应和贸易",
+    "data":[
+      {
+        "id":1,
+        "dateImg":"static/assets/08_01.jpg",
+        "imgTitle":"中国对越南虾的需求2017年上涨60％，中国目前已成为最大的鲶鱼进口国",
+        "dateTime":"中国市场的强劲需求推动了越南2017年的海鲜出口，但最近海关的严打行动使得跨境贸易在新年的第一周显得尤为不确定。",
+        "url":"http://www.seafoodnews.com/Story/1087970/China-Demand-For-Vietnam-Shrimp-up-60-percent-in-2017-China-Now-largest-Importer-of-Pangasius"
+      },
+      {
+        "id":2,
+        "dateImg":"static/assets/08_02.jpg",
+        "imgTitle":"中国互联网巨头阿里巴巴在北京开设30家盒马鲜生会员店，同时京东也已开设其首家线下生鲜超市“7Fresh”",
+        "dateTime":"阿里巴巴集团控股有限公司于上周三宣布，今年整个北京还有30家盒马鲜生的生鲜食品超市开业，目前互联网巨头越来越关注利润丰厚的生鲜食品零售行业。",
+        "url":"http://www.seafoodnews.com/Login.aspx?ReturnUrl=/SearchStory/Crab/1087967"
+      },
+      {
+        "id":3,
+        "dateImg":"static/assets/08_03.jpg",
+        "imgTitle":"美国俄勒冈州珍宝蟹延迟捕捞带来广泛的经济影响，造成更多的冷冻蟹产品",
+        "dateTime":"美国俄勒冈州珍宝蟹捕捞季节延迟产生广泛的经济影响。这会导致冷冻蟹产品的比例增加，同时增加成本。",
+        "url":"http://www.seafoodnews.com/Login.aspx?ReturnUrl=/SearchStory/Crab/1087512"
+      },
+      {
+        "id":4,
+        "dateImg":"static/assets/08_04.jpg",
+        "imgTitle":"中国被指造成南韩鱿鱼短缺",
+        "dateTime":"西澳的沿海小镇正在建造大规模岩石龙虾捕捞船只，推动船只行业就业繁荣。由于捕捞价格上涨，一些西澳大利亚龙虾渔民正在投资并建造规模更大的船只，而其他一些正在扩大其现有船只的承载能力。",
+        "url":"http://www.seafoodnews.com/Login.aspx?ReturnUrl=/SearchStory/Lobster/1087189"
+      },
+      {
+        "id":5,
+        "dateImg":"static/assets/08_05.jpg",
+        "imgTitle":"俄罗斯螃蟹业面临劳动力问题，产量也因配额下降而下滑",
+        "dateTime":"俄罗斯螃蟹加工商协会会长Alexander Duplyakov于今日发表声明称，由于现有配额分配方案的调整，俄罗斯螃蟹行业可能面临大量裁员，并在2019年出现产量下滑的局面。",
+        "url":"http://www.seafoodnews.com/Login.aspx?ReturnUrl=/SearchStory/Crab/1087072"
+      },
+      {
+        "id":6,
+        "dateImg":"static/assets/08_06.jpg",
+        "imgTitle":"美国缅因州关闭2个扇贝商业捕捞区，以保护物种健康",
+        "dateTime":"扇贝是缅因州最宝贵的海洋资源之一，每磅产量都极具经济价值。 截至2018年1月1日，缅因州的渔业监管机构正在关闭2个扇贝捕捞区，以保护该海洋资源物种的健康。",
+        "url":"http://www.seafoodnews.com/Login.aspx?ReturnUrl=/SearchStory/Scallop/1087767"
+      }
+    ]
+  },
+  "ad":[
+    { "dateImg":"","url":""}
+  ],
+  "products":{
+    "tips":"今日聚焦",
+    "title":"海鲜产品",
+    "data":[
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      },
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      }
+    ]
+  }
+}

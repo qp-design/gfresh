@@ -1,0 +1,84 @@
+{
+  "date":"1月16号. 2018",
+  "title":"周二海鲜",
+  "news":{
+    "tipsD":"周二聚焦",
+    "title":"供应和贸易",
+    "data":[
+      {
+        "id": 1,
+        "dateImg": "static/assets/17_01.jpg",
+        "imgTitle": "欧洲议会投票表决在欧盟范围内禁止电击捕鱼",
+        "dateTime": "1月16日，欧洲议会投票表决禁止在欧盟海域内进行电击捕鱼。",
+        "url": "https://www.undercurrentnews.com/2018/01/16/eu-votes-to-ban-pulse-fishing/"
+      },
+      {
+        "id":2,
+        "dateImg":"static/assets/17_02.jpg",
+        "imgTitle":"美国缅因州反对增加龙虾捕捞报告",
+        "dateTime":"大西洋州海洋渔业委员会正在考虑一项提案，要求所有缅因州龙虾捕获者提交包含更多细节的每日捕捞报告。 委员会专家认为，需要更好地记录龙虾捕捞的影响，尤其是在联邦水域内，跨大西洋航运、邮轮交通和海上风电场等众多问题显现。",
+        "url":"https://www.undercurrentnews.com/2018/01/16/maine-to-argue-against-increased-lobster-catch-reports/"
+      },
+      {
+        "id":3,
+        "dateImg":"static/assets/17_03.jpg",
+        "imgTitle":"巴西海鲜产品对欧盟出口禁令未对Calvo公司造成影响，但对整个巴西海鲜行业较为担忧",
+        "dateTime":"西班牙最大的金枪鱼罐头制造商－Grupo Calvo的巴西分部未遭受巴西对欧盟出口禁令的影响，该禁令是由巴西当局制定的。",
+        "url":"https://www.undercurrentnews.com/2018/01/16/brazil-seafood-export-ban-to-eu-leaves-calvo-unaffected-but-worries-the-countrys-fish-industry/"
+      },
+      {
+        "id":4,
+        "dateImg":"static/assets/17_04.jpg",
+        "imgTitle":"越南已向世界贸易组织对美国征收反倾销税提出申诉",
+        "dateTime":"越南已向世界贸易组织（WTO）就美国对鲶鱼产品的反倾销税提出申诉。",
+        "url":"https://www.undercurrentnews.com/2018/01/15/vietnam-files-complaint-with-wto-over-us-anti-dumping-duties/"
+      },
+      {
+        "id":5,
+        "dateImg":"static/assets/17_05.jpg",
+        "imgTitle":"美国转基因三文鱼AquaBounty食品公司推动产品商业化量产",
+        "dateTime":"广受争议的美国AquaBounty公司已研究出如何通过转基因方式促进大西洋三文鱼生长得更快，并继续在该领域推进产品商业化量产。",
+        "url":"https://www.seafoodsource.com/commentary/genetically-modified-salmon-producer-aquabounty-advances-to-product-commercialization"
+      },
+      {
+        "id":6,
+        "dateImg":"static/assets/17_06.jpg",
+        "imgTitle":"众多欧洲进口商齐聚果阿举行高级别会议以加强印度虾类产品贸易",
+        "dateTime":"多家欧洲高端虾产品进口商，包括Klaas Paul，Nordic Seafood和Seafood Connection等集团，以及荷兰进口商协会、欧洲海鲜进口商集团和英国买家将在本月底齐聚果阿，参加即将到来的印度国际海鲜展。",
+        "url":"http://www.seafoodnews.com/Story/1088978/European-Importers-Move-to-Strengthen-India-Shrimp-Trade-with-High-Level-Meetings-in-Goa"
+      },
+      {
+        "id":7,
+        "dateImg":"static/assets/17_07.jpg",
+        "imgTitle":"伊朗邮轮Sanchi号漏油事故在东海蔓延，海鲜供应可能受阻",
+        "dateTime":"伊朗油轮泄漏事件可能会影响东海产品的长期供应，目前该重点商业捕鱼区域海洋生物都面临被污染的风险。",
+        "url":"http://www.seafoodnews.com/Story/1088989/Seafood-Supply-May-be-Hit-as-Sanchi-Oil-Spill-Spreads-in-East-China-Sea"
+      }
+    ]
+  },
+  "ad":[
+    { "dateImg":"","url":""}
+  ],
+  "products":{
+    "tips":"今日聚焦",
+    "title":"海鲜产品",
+    "data":[
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      },
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      }
+    ]
+  }
+}

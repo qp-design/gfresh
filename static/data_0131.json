@@ -1,0 +1,70 @@
+{
+  "date":"1月31号. 2018",
+  "title":"周三海鲜",
+  "news":{
+    "tipsD":"周三聚焦",
+    "title":"供应和贸易",
+    "data":[
+      {
+        "id": 1,
+        "dateImg": "static/assets/0131_01.jpg",
+        "imgTitle": "印度海鲜出口商与MPEDA讨论认证标准",
+        "dateTime": "印度海鲜行业正在向海鲜产品出口发展局（MPEDA）寻求帮助，期望能够制定通用的标准认证。根据印度媒体报道，印度海鲜行业成员需要这样的认证以保证其可靠的业务发展。然而，部分企业要获得所有这些不同认证所付出的成本和努力，已让企业不堪重负。所需认证包括危害分析、关键控制点（HACCP），ISO 9001：2015和英国零售商联盟（BRC）认证等。",
+        "url": "http://seafood.com/Story/1090565/Indian-Seafood-Exporters-Discuss-Certification-Standards-with-MPEDA"
+      },
+      {
+        "id":2,
+        "dateImg":"static/assets/0131_02.jpg",
+        "imgTitle":"欧盟委员已受理有关运输死亡苏格兰三文鱼的投诉",
+        "dateTime":"日前，有证据表明运输患病的苏格兰三文鱼违反相关环境法规，欧盟委员会（EC）已受理相关投诉。全球反工业水产联盟（GAAIA）敦促欧盟出面干预该事件，视频证据是由英国广播公司（BBC）拍摄，并在上个月的The One Show展会上播放，其中显示经Highlands地区的运输卡车携带病态三文鱼液体泄漏引发的。",
+        "url":"http://seafood.com/Story/1090529/European-Commission-Receives-Complaints-on-Scottish-Salmon-Practice-of-Transporting-Dead-Salmon"
+      },
+      {
+        "id":3,
+        "dateImg":"static/assets/0131_03.jpg",
+        "imgTitle":"拉丁美洲海鲜消费量仅为人均9.5公斤",
+        "dateTime":"拉丁美洲和加勒比地区占世界水产养殖和渔业产量的11％，但其居民平均每人每年只摄入9.5公斤的海鲜产品，不足21公斤左右世界消费量的一半。",
+        "url":"http://seafood.com/Story/1090573/Latin-America-Seafood-Consumption-Only-9-point-5-Kg"
+      },
+      {
+        "id":4,
+        "dateImg":"static/assets/0131_04.jpg",
+        "imgTitle":"英国活鲜螃蟹产品出口至中国，海鲜产品公司迎来增长",
+        "dateTime":"螃蟹是亚洲地区最受欢迎的食物之一 其中也有来自英国南德文郡沿岸的螃蟹产品。总部设在Torbay的蓝海食品公司（Blue Sea Food Company）启动的活鲜产品出口服务自推出以来已经在18个月内为公司带来迅速增长。这也是该公司设定今年增长率为12％左右的原因之一。",
+        "url":"http://seafood.com/Story/1090567/UK-Live-Crab-Exports-to-China-Support-Devon-Companys-Growth"
+      },
+      {
+        "id":5,
+        "dateImg":"static/assets/0131_05.jpg",
+        "imgTitle":"俄罗斯2017年巴伦支海帝王蟹数量创下历史纪录",
+        "dateTime":"巴伦支海堪察加帝王蟹数量在2017年达到了历史最高纪录，或使俄罗斯政府在2018年提高可捕捞总量，并废除俄罗斯现有禁止沿海蟹产品生产的措施。俄罗斯当地一些主要螃蟹生产商也极力推动该举措。据俄罗斯科学家的调研，除堪察加螃蟹外，雪蟹的数量也在增长。因此，今年巴伦支海两种螃蟹捕捞总量可能达到1.8万吨。海洋渔业和海洋极地科学研究所（PINRO）海岸研究实验室主任康斯坦丁·索科洛夫说，堪察加螃蟹的数量在2004年达到峰值。他称2004年以来螃蟹数量已经开始下降，在过去的两年里才重新有所增长。与此同时，俄罗斯不断增长的螃蟹数量也已带动了俄罗斯的螃蟹生产商提高产量。",
+        "url":"http://seafood.com/Story/1090571/Russians-Say-King-Crab-Population-Hit-Record-in-Barents-Sea-in-2017"
+      }
+    ]
+  },
+  "ad":[
+    { "dateImg":"","url":""}
+  ],
+  "products":{
+    "tips":"今日聚焦",
+    "title":"海鲜产品",
+    "data":[
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      },
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      }
+    ]
+  }
+}

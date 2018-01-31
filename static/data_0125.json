@@ -1,0 +1,77 @@
+{
+  "date":"1月25号. 2018",
+  "title":"周四海鲜",
+  "news":{
+    "tipsD":"周四聚焦",
+    "title":"供应和贸易",
+    "data":[
+      {
+        "id": 1,
+        "dateImg": "static/assets/0125_01.jpg",
+        "imgTitle": "加拿大渔业出口将受益于新的“太平洋贸易协定”",
+        "dateTime": "加拿大及其其他10个国家共同签署“跨太平洋合作综合推进协议”（CPATPP），内容涉及海鲜、采矿、非乳制农业、林业和制造业，旨在推动这些行业的进一步发展。",
+        "url": "http://seafood.com/Story/1089917/Canada-Fisheries-Exports-will-Benefit-from-New-Pacific-Trade-Pact"
+      },
+      {
+        "id":2,
+        "dateImg":"static/assets/0125_02.jpg",
+        "imgTitle":"加拿大新斯科舍省海鲜加工商正推动永久禁止新的行业进入者禁令",
+        "dateTime":"加拿大新斯科舍省的海鲜采购商和加工商支持新的省政府临时冻结令，暂停一切新进入行业的请求。该省政府目前暂时冻结了新的购买和加工许可证，同时完成了对现行许可证制度的审查。",
+        "url":"http://seafood.com/Story/1089730/Baby-Eel-Catches-in-Asia-At-Record-Low"
+      },
+      {
+        "id":3,
+        "dateImg":"static/assets/0125_03.jpg",
+        "imgTitle":"中国白虾价格惊人上涨;或持续至中国新年",
+        "dateTime":"据了解，1月17日中国虾价格指数为147.74点，比1月10日上涨4.21％（5.99点），平均为30.56元/斤（约9.60美元/公斤美元），上涨了1.15元/斤（0.36美元/千克美元）。距离中国新年还有不到一个月，预计白虾价格将继续上涨。",
+        "url":"http://seafood.com/Story/1089929/Chinas-White-Shrimp-Prices-Increase-at-Surprising-Rate-Likely-to-Continue-into-Chinese-New-Year"
+      },
+      {
+        "id":4,
+        "dateImg":"static/assets/0125_04.jpg",
+        "imgTitle":"伊利诺伊州州长与路易斯安那州合作销售亚洲鲤鱼",
+        "dateTime":"伊利诺伊州州长伊夫林·桑吉内蒂（Evelyn Sanguinetti）在与路易斯安那州共同参加的午餐会上宣布将与该州合作推动亚洲鲤鱼的销售，展示并鼓励人们食用亚洲鲤鱼作为健康的食物来源。这些努力对两州均可以产生积极的生态和经济影响。几年前两个州就共同成立了首个合作项目，由伊利诺伊州自然资源部、路易斯安那州野生动物和渔业部以及伊利诺伊大学共同参与。",
+        "url":"http://seafood.com/Story/1089913/Illinois-Lt-Gov-Sanguinetti-Partners-with-Louisiana-to-Market-Asian-Carp-as-Food"
+      },
+      {
+        "id":5,
+        "dateImg":"static/assets/0125_05.jpg",
+        "imgTitle":"中国对于美国采取的贸易行动毫不示弱",
+        "dateTime":"美国目前从中美贸易间已吸取教训，中国方面回应豪不示弱。特朗普政府决定对进口中国的太阳能电池板和洗衣机征收新的关税后，中国在面对贸易争端方面也毫不示弱，将会用相似的措施予以回应。美国贸易代表办公室（USTR）周一（1月22日）表示，美国将对进口太阳能设备征收30％的新税。一年前上任之时，特朗普也批准过高达百分之五十的关税。",
+        "url":"http://seafood.com/Story/1089908/China-has-Targets-Aplenty-to-Retaliate-against-US-Trade-Action"
+      },
+      {
+        "id":6,
+        "dateImg":"static/assets/0125_06.jpg",
+        "imgTitle":"美国俄勒冈州将全力保障该州珍贵的太平洋蟹产品资源",
+        "dateTime":"美国俄勒冈州最有价值的珍宝蟹商业捕捞已于本周在Cape Blanco以北开始。虽然渔民因暴风雨等天气因素和价格谈判在渔季正式开放后搁置了一段时间，但加工商们预计很快就会有大量的产品交付。该州珍宝蟹的出货量形势一直较好，这也缘于该州对珍宝蟹成功的捕捞管理。太平洋沿岸的珍宝蟹商业捕捞最早可追溯至1800年末。",
+        "url":"http://seafood.com/Story/1089944/Strong-Management-Safeguards-Oregons-Valuable-Dungeness-Crab-Fishery"
+      }
+    ]
+  },
+  "ad":[
+    { "dateImg":"","url":""}
+  ],
+  "products":{
+    "tips":"今日聚焦",
+    "title":"海鲜产品",
+    "data":[
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      },
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      }
+    ]
+  }
+}

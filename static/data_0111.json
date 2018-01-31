@@ -1,0 +1,70 @@
+{
+  "date":"1月11号. 2018",
+  "title":"周四海鲜",
+  "news":{
+    "tipsD":"周四聚焦",
+    "title":"供应和贸易",
+    "data":[
+      {
+        "id":1,
+        "dateImg":"static/assets/11_01.jpg",
+        "imgTitle":"阿根廷虾捕捞产量持续“向好”，同时开启鱿鱼渔季",
+        "dateTime":"阿根廷沿海虾捕捞量持续“向好”，去年底以来价格保持稳定。 同时，阿根廷海域的鱿鱼捕捞季节也于12月10日开启。",
+        "url":"https://www.undercurrentnews.com/2018/01/10/argentine-shrimp-catches-continue-to-be-very-good-as-squid-season-kicks-off/"
+      },
+      {
+        "id":2,
+        "dateImg":"static/assets/11_02.jpg",
+        "imgTitle":"美国俄勒冈州监管区珍宝蟹谈判未就价格达成一致",
+        "dateTime":"美国俄勒冈州的渔民和加工商多年来首次针对珍宝蟹渔季开盘价格未达成一致，渔季预计将于1月15日开始，渔区则位于俄勒冈州的Cape Blanco北部靠近奥福德港的加拿大边境。",
+        "url":"http://www.seafoodnews.com/Story/1088443/No-Price-Agreement-in-Oregon-Supervised-Crab-Negotiations"
+      },
+      {
+        "id":3,
+        "dateImg":"static/assets/11_03.jpg",
+        "imgTitle":"美国成为挪威海鲜出口增长最快的市场",
+        "dateTime":"2017年挪威海鲜出口量再创新高。 美国现已成为挪威海鲜出口增长最快的市场。",
+        "url":"http://www.seafoodnews.com/Login.aspx?ReturnUrl=/SearchStory/Salmon/1088444"
+      },
+      {
+        "id":4,
+        "dateImg":"static/assets/11_04.jpg",
+        "imgTitle":"中国进一步严厉打击经越南走私的大宗海鲜产品案",
+        "dateTime":"海鲜走私一直是中国海鲜行业的公开秘密。 近年来，政府对这些违法行为采取了多项措施。 中国已与其他国家签订自由贸易协定，降低关税，并已采取行动打击走私者。 近日海关部门又查获了两起大型走私案。",
+        "url":"http://www.seafoodnews.com/Story/1088446/More-China-Crack-Downs-on-High-Value-Seafood-Smuggling-From-Vietnam"
+      },
+      {
+        "id":5,
+        "dateImg":"static/assets/11_05.jpg",
+        "imgTitle":"美国虾产品进口拒绝入境数量2017年降至新低",
+        "dateTime":"美国食品和药品监管局2017年因禁用抗生素而拒绝进口的虾产品降至五年来最低水平。",
+        "url":"https://www.seafoodsource.com/news/food-safety-health/us-shrimp-import-refusals-plummeted-in-2017"
+      }
+    ]
+  },
+  "ad":[
+    { "dateImg":"","url":""}
+  ],
+  "products":{
+    "tips":"今日聚焦",
+    "title":"海鲜产品",
+    "data":[
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      },
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      }
+    ]
+  }
+}

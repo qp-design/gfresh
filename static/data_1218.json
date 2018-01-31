@@ -1,0 +1,70 @@
+{
+  "date":"12月18号. 2017",
+  "title":"星期一海鲜",
+  "news":{
+    "tipsD":"星期一聚焦",
+    "title":"供应和贸易",
+    "data":[
+      {
+        "id":1,
+        "dateImg":"static/assets/18_01.jpg",
+        "imgTitle":"阿根廷虾价格上涨，需求超过捕捞量",
+        "dateTime":"阿根廷虾近日遭遇强劲市场需求，形成供不应求的态势，造成市场价格飙升。",
+        "url":"https://www.undercurrentnews.com/2017/12/14/argentine-shrimp-prices-shoot-up-as-demand-overtakes-catches/?utm_source=Undercurrent+News+Alerts&utm_campaign=14d9eb2191-Europe_briefing_Dec_15_2017&utm_medium=email&utm_term=0_feb55e2e23-14d9eb2191-92630781"
+      },
+      {
+        "id":2,
+        "dateImg":"static/assets/18_02.jpg",
+        "imgTitle":"美国太平洋鳕鱼产量削减低于预期; 价格已达“高点”",
+        "dateTime":"虽然如早前预期，美国太平洋鳕鱼产量削减已成现实，但白令海峡主要捕捞产量减少幅度低于预期，从而价格稳定在较高水平。",
+        "url":"https://www.undercurrentnews.com/2017/12/14/pacific-cod-cuts-not-as-bad-as-expected-prices-have-peaked/?utm_source=Undercurrent+News+Alerts&utm_campaign=14d9eb2191-Europe_briefing_Dec_15_2017&utm_medium=email&utm_term=0_feb55e2e23-14d9eb2191-92630781"
+      },
+      {
+        "id":3,
+        "dateImg":"static/assets/18_03.jpg",
+        "imgTitle":"加拿大寄希望于中国对龙虾‘‘狂热”的追捧",
+        "dateTime":"加拿大龙虾出口2017年一路向好，未来颇为积极。 根据加拿大龙虾理事会（LCC）的杰夫·欧文（Geoff Irvine）称，9月21日生效的<<全面经济贸易协定>>允许加拿大以零关税出口龙虾到欧洲。 同时，对亚洲国家尤其是中国的出口增长迅速。 对亚洲的出口额从2014年的2.11亿元跃升至2016年的3.78亿元人民币。",
+        "url":"https://www.undercurrentnews.com/2017/12/15/chinas-guolian-inks-partnership-with-alibaba-kkr-backed-e-commerce-firm/?utm_source=Undercurrent+News+Alerts&utm_campaign=14d9eb2191-Europe_briefing_Dec_15_2017&utm_medium=email&utm_term=0_feb55e2e23-14d9eb2191-92630781"
+      },
+      {
+        "id":4,
+        "dateImg":"static/assets/18_04.jpg",
+        "imgTitle":"中国国联水产联手易果电商平台，此前获多轮阿里巴巴、KKR巨头融资",
+        "dateTime":"中国最大的水产虾公司－－湛江国联水产公司与中国电商平台易果网达成合作协议，将涉及联合品牌开发、生产、加工、融资及新产品开发等多项内容。",
+        "url":"https://www.undercurrentnews.com/2017/12/14/india-could-double-value-of-shrimp-exports-by-2022/"
+      },
+      {
+        "id":5,
+        "dateImg":"static/assets/18_05.jpg",
+        "imgTitle":"中国国内虾产量下降10％，获意味着未来更高的进口量",
+        "dateTime":"2017年将近尾声，而一份有关中国国内虾养殖业的报告显示，其产量已经下降了10％左右，从而造成了更高的市场价格。 这虽有利于更高的进口量，但同时也使跨境贸易问题更加严峻。",
+        "url":"http://seafoodnews.com/Login.aspx?ReturnUrl=/SearchStory/Shrimp/1085792"
+      }
+    ]
+  },
+  "ad":[
+    { "dateImg":"static/assets/0.jpg","url":"https://m.gfresh.cn/#/homePage"}
+  ],
+  "products":{
+    "tips":"星期一聚焦",
+    "title":"海鲜产品",
+    "data":[
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      },
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      }
+    ]
+  }
+}

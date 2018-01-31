@@ -1,0 +1,77 @@
+{
+  "date":"12月22号. 2017",
+  "title":"今日海鲜",
+  "news":{
+    "tipsD":"今日聚焦",
+    "title":"供应和贸易",
+    "data":[
+      {
+        "id":1,
+        "dateImg":"static/assets/22_01.jpg",
+        "imgTitle":"法国三文鱼市场价格不断走高，烟熏三文鱼市场遭受巨大打击",
+        "dateTime":"北欧银行（Nordea Bank）近日称，2016年法国烟熏三文鱼市场因遭遇挪威过高的三文鱼产品价格在圣诞节期间受到打击，并且该影响一直至2017年仍然对消费者持续。",
+        "url":"https://www.undercurrentnews.com/2017/12/20/peak-salmon-prices-shut-down-french-smoked-sales/"
+      },
+      {
+        "id":2,
+        "dateImg":"static/assets/22_02.jpg",
+        "imgTitle":"挪威投资公司锁定爱尔兰螃蟹供应商，欲收购其2000万欧元资产及业务",
+        "dateTime":"挪威投资公司海鲜科技集团（STG） - 早前已表示爱尔兰三文鱼市场有巨大的上升潜力，目前正锁定爱尔兰一家颇具前景的螃蟹加工和销售公司。",
+        "url":"https://www.undercurrentnews.com/2017/12/21/norwegian-investment-firm-eyes-irish-crab-supplier-as-e20m-plus-business/"
+      },
+      {
+        "id":3,
+        "dateImg":"static/assets/22_03.jpg",
+        "imgTitle":"阿拉斯加郊区渔业成本不断提高，行业参与举步维艰",
+        "dateTime":"根据阿拉斯加大学Fairbanks和SeaGrant科学家最近的一份报告称，进入阿拉斯加渔业的成本越来越高，这使得新的渔民很难进入这个行业 - 尤其是在郊区和沿海社区。",
+        "url":"http://seafoodnews.com/Story/1086586/New-Report-Finds-Rural-Alaska-Losing-Access-to-Fisheries"
+      },
+      {
+        "id":4,
+        "dateImg":"static/assets/22_04.jpg",
+        "imgTitle":"日本生鱼片金枪鱼供应量今年以来首次跌破至30万吨以下",
+        "dateTime":"日本在2017财年生鱼片金枪鱼的供应量预计自大地震以来首次跌破30万吨以下。",
+        "url":"http://seafoodnews.com/Story/1086611/Japan-Sashimi-Tuna-Supply-Drops-Below-300000-tons-This-Year-for-First-Time-Since-Great-Earthquake"
+      },
+      {
+        "id":5,
+        "dateImg":"static/assets/22_05.jpg",
+        "imgTitle":"中国日益增长的巨大需求引发可能耗尽巴哈马龙虾资源的恐慌",
+        "dateTime":"巴哈马国家信托基金（BNT）执行董事埃里克·凯里（Eric Carey）昨日表示，巴哈马目前无法供应当地刺龙虾市场需求，同时也无法填补中国出口市场的旺盛需求，多年来总体龙虾数量也一直在下降。",
+        "url":"http://seafoodnews.com/Story/1086599/Fears-Raised-that-Insatiable-Chinese-Demand-Could-Wipe-Out-Bahamian-Lobsters"
+      },
+      {
+        "id":6,
+        "dateImg":"static/assets/22_06.jpg",
+        "imgTitle":"挪威三文鱼出口至中国，物流问题依然存在",
+        "dateTime":"中国目前北京、上海和广州港口均对挪威的冷冻三文鱼开放，但冷冻海鲜到达当地市场仍需要较长时间。 部分经销商最近已开始通过微信宣传三文鱼等核心产品，该社交媒体在中国广受欢迎。",
+        "url":"http://seafoodnews.com/Story/1086603/Logistics-Ease-for-Norwegian-Salmon-Shipments-to-China-Though-Some-Issues-Remain"
+      }
+    ]
+  },
+  "ad":[
+    { "dateImg":"","url":""}
+  ],
+  "products":{
+    "tips":"今日聚焦",
+    "title":"海鲜产品",
+    "data":[
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      },
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "date":"1月22号. 2018",
+  "title":"周一海鲜",
+  "news":{
+    "tipsD":"周一聚焦",
+    "title":"供应和贸易",
+    "data":[
+      {
+        "id": 1,
+        "dateImg": "static/assets/0122_01.jpg",
+        "imgTitle": "海洋管理委员会对渔业评估采用新的要求",
+        "dateTime": "海洋管理委员会（MSC）近日采用了新的渔业评估方式，要求在单次捕捞中对目标海洋生物进行的所有捕捞活动都要经过MSC的可持续渔业标准认证。",
+        "url": "https://www.undercurrentnews.com/2018/01/19/msc-adopts-new-requirement-for-the-assessment-of-fisheries/"
+      },
+      {
+        "id":2,
+        "dateImg":"static/assets/0122_02.jpg",
+        "imgTitle":"印度虾价格平稳，目前美国、中国进口需求不足",
+        "dateTime":"印度的虾出口市场1月中旬以来较为平静，同时捕获量已开始减少，需求不足导致目前价格较为平稳。",
+        "url":"https://www.undercurrentnews.com/2018/01/19/indian-shrimp-prices-flat-on-lack-of-us-chinese-demand/"
+      },
+      {
+        "id":3,
+        "dateImg":"static/assets/0122_03.jpg",
+        "imgTitle":"太平洋鳕鱼或迎来替代品; 扇贝价格恐走低",
+        "dateTime":"Blue Harvest渔业公司的首席执行官杰夫·戴维斯（Jeff Davis）称，2018年或因鳕鱼产品供应短缺为太平洋鳕鱼买家和供应商带来“供货”变化。",
+        "url":"https://www.undercurrentnews.com/2018/01/19/blue-harvests-davis-pacific-cod-substitution-likely-scallop-prices-could-weaken/"
+      },
+      {
+        "id":4,
+        "dateImg":"static/assets/0122_04.jpg",
+        "imgTitle":"美国NOAA称鳕鱼捕捞或重新反弹",
+        "dateTime":"据美国国家海洋暨大气总署（NOAA）的官员称，美国的大西洋鳕鱼捕捞量在2016年创下历史新低，但渔业的反弹或即将来临。",
+        "url":"https://www.seafoodsource.com/news/supply-trade/us-cod-catch-could-soon-make-a-comeback-noaa-says"
+      },
+      {
+        "id":5,
+        "dateImg":"static/assets/0122_05.jpg",
+        "imgTitle":"加拿大渔业理事会警告部长，切勿增加行业不稳定性",
+        "dateTime":"根据与欧盟达成的“全面经济贸易协议”，欧洲市场不断开放，同时亚洲市场依然强劲，加拿大的海鲜出口需求将继续大幅增长。然而，加拿大大西洋海产业的许多领导人担心，渔业政策或面临调整，可能导致行业不稳定并影响投资和经济增长。",
+        "url":"http://www.seafoodnews.com/Story/1089451/Fisheries-Council-of-Canada-Warns-Minister-Against-Creating-Instability-in-the-Industry-OPINION"
+      },
+      {
+        "id":6,
+        "dateImg":"static/assets/0122_06.jpg",
+        "imgTitle":"美威集团（Marine Harvest）欲在芬迪湾收购Northern Harvest公司",
+        "dateTime":"美威三文鱼集团（Marine Harvest）是世界上最大的三文鱼养殖公司，目前正准备进军芬迪湾。这家总部位于奥斯陆的公司在星期二已向联邦竞争局提交文件。该公司已签署了一份股权收购协议，接管位于芬迪湾的Northern Harvest三文鱼养殖场，该公司在芬迪湾（Bay of Fundy）拥有9家养殖场以及位于圣乔治（St. George）的一家加工厂。",
+        "url":"http://www.seafoodnews.com/Story/1089459/Marine-Harvest-Will-Operate-in-Bay-of-Fundy-with-Purchase-of-Northern-Harvest"
+      }
+    ]
+  },
+  "ad":[
+    { "dateImg":"","url":""}
+  ],
+  "products":{
+    "tips":"今日聚焦",
+    "title":"海鲜产品",
+    "data":[
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      },
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      }
+    ]
+  }
+}

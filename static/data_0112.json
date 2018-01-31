@@ -1,0 +1,70 @@
+{
+  "date":"1月12号. 2018",
+  "title":"周五海鲜",
+  "news":{
+    "tipsD":"周五聚焦",
+    "title":"供应和贸易",
+    "data":[
+      {
+        "id":1,
+        "dateImg":"static/assets/12_01.jpg",
+        "imgTitle":"澳大利亚龙虾出口商正备战中国农历新年，同时龙虾价格坚挺",
+        "dateTime":"澳大利亚的龙虾出口商正在紧锣密鼓地筹备农历新年 - 已进入最繁忙的交易期，龙虾价格相对坚挺。",
+        "url":"https://www.undercurrentnews.com/2018/01/11/australian-rock-lobster-exporters-gear-up-for-chinese-new-year-with-pricing-firm/"
+      },
+      {
+        "id":2,
+        "dateImg":"static/assets/12_02.jpg",
+        "imgTitle":"美国虾产品进口不断攀升，欲引入法案加强监管",
+        "dateTime":"根据美国国家海洋渔业局（National Marine Fisheries Service）发布的消息，11月份美国的虾产品进口量持续上升。 进口虾价格同比上涨10％左右。 美国的绝大多数海鲜都是进口产品，而虾是最主要的产品。",
+        "url":"https://www.seafoodsource.com/news/supply-trade/us-shrimp-imports-continue-to-rise-as-bill-is-introduced-to-increase-oversight"
+      },
+      {
+        "id":3,
+        "dateImg":"static/assets/12_03.jpg",
+        "imgTitle":"家乐福中国将为消费者提供龙虾及生蚝等产品的在线预订及快递服务",
+        "dateTime":"法国连锁超市巨头——家乐福正计划为中国消费者推出在线预订海外鲜活海鲜产品的服务，同时承诺将在24小时内送至消费者家中。",
+        "url":"https://www.seafoodsource.com/news/foodservice-retail/carrefour-delivering-lobsters-and-oysters-directly-to-customers-in-china"
+      },
+      {
+        "id":4,
+        "dateImg":"static/assets/12_04.jpg",
+        "imgTitle":"美国阿拉斯加雪蟹捕捞开始放缓，预计价格低于去年同期水平",
+        "dateTime":"美国阿拉斯加州雪蟹捕捞已经开始放缓。 一些主要加工商已就3.00美元的捕捞价格达成协议。最终价格将由批发价格计算得出，该批发价格将高于捕捞价格。",
+        "url":"http://www.seafoodnews.com/Story/1088590/Alaska-Opilio-Fishing-Off-to-Slow-Start-Most-Expect-Prices-to-Settle-Lower-than-Last-Year"
+      },
+      {
+        "id":5,
+        "dateImg":"static/assets/12_05.jpg",
+        "imgTitle":"全球养殖虾产品或保持稳定，3月份可能上涨",
+        "dateTime":"南美养殖白对虾价格预计在1月份和2月份保持稳定，预计3月份进口商和最终用户将开始考虑更换库存。",
+        "url":"https://www.undercurrentnews.com/2018/01/11/gulkin-global-farmed-shrimp-prices-likely-stable-until-march-increases/"
+      }
+    ]
+  },
+  "ad":[
+    { "dateImg":"","url":""}
+  ],
+  "products":{
+    "tips":"今日聚焦",
+    "title":"海鲜产品",
+    "data":[
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      },
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      }
+    ]
+  }
+}

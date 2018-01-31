@@ -1,0 +1,91 @@
+{
+  "date":"1月19号. 2018",
+  "title":"周五海鲜",
+  "news":{
+    "tipsD":"周五聚焦",
+    "title":"供应和贸易",
+    "data":[
+      {
+        "id": 1,
+        "dateImg": "static/assets/019_01.jpg",
+        "imgTitle": "中日在大连成立合资公司，建立价值1300万美元的蓝鳍金枪鱼加工厂",
+        "dateTime": "日本双日株式会社（Sojitz）与中国海鲜公司獐子岛投资集团建立的合资企业在中国东北城市大连开设了新的蓝鳍金枪鱼加工厂。合资公司为大连环球食品公司，上月在大连保税港区大窑湾建立了价值8500万元人民币（1310万美元）的新工厂。 该工厂可将冷冻金枪鱼鱼片年产量提高至6000吨，冷库容量达到4000吨。",
+        "url": "https://www.undercurrentnews.com/2018/01/18/sino-japan-jv-opens-new-13m-tuna-processing-plant-in-dalian/"
+      },
+      {
+        "id":2,
+        "dateImg":"static/assets/019_02.jpg",
+        "imgTitle":"美国海产品进口监控项目（SIMP）虾产品要求升级，进口商积极应对影响",
+        "dateTime":"为迫使美国虾产品进口商尽快遵守美国国家海洋暨大气总署有关新的海产品进口记录的要求，华盛顿方面正在加紧努力，美国国会为防止政府关门情况发生正以危机模式应对。",
+        "url":"https://www.undercurrentnews.com/2018/01/18/simp-for-shrimp-lobbying-heats-up-while-importers-brace-for-impact/"
+      },
+      {
+        "id":3,
+        "dateImg":"static/assets/019_03.jpg",
+        "imgTitle":"越南鲶鱼出口商面对2018年市场如履薄冰",
+        "dateTime":"欧盟和美国一直以来都是越南鲶鱼的两个主要出口市场。 然后近日市场向中国和香港的转移，以及对欧盟和美国的出口量急剧下降，让越南出口商在艰难中前行。",
+        "url":"http://www.seafoodnews.com/Story/1089275/Vietnams-Pangasius-Exporters-On-Tenterhooks-Over-Market-Shifts-in-2018"
+      },
+      {
+        "id":4,
+        "dateImg":"static/assets/019_04.jpg",
+        "imgTitle":"加拿大新斯科舍省截止1月11日暂停龙虾购买和加工许可证",
+        "dateTime":"加拿大新斯科舍省政府已经无限期地冻结了新进入该省海鲜产业的买方，包括利润丰厚的龙虾渔业。",
+        "url":"http://www.seafoodnews.com/Story/1089329/Nova-Scotia-Freezes-Lobster-Buying-and-Processing-Licenses-as-of-Jan-11th"
+      },
+      {
+        "id":5,
+        "dateImg":"static/assets/019_05.jpg",
+        "imgTitle":"俄罗斯鳕鱼生产商承诺更多关注国内市场",
+        "dateTime":"尽管目前俄罗斯国内加工能力有限，俄罗斯国内领先的鳕鱼加工商今年计划大幅减少在中国工厂进行的鳕鱼加工。",
+        "url":"http://www.seafoodnews.com/Story/1089281/Russian-Pollock-Producers-Again-Vow-to-Focus-more-on-Domestic-Market"
+      },
+      {
+        "id":6,
+        "dateImg":"static/assets/019_06.jpg",
+        "imgTitle":"英国零售商对可持续金枪鱼产品表示担忧",
+        "dateTime":"金枪鱼渔业是否应该获得海洋管理委员会（MSC）的部分认证？ 英国一些零售商也正在表达他们对这一颇具争议做法的声音。Tesco，Waitrose和Marks＆Spencer等多家零售商已致信MSC董事会，表示他们认为将金枪鱼渔业划分进行部分认证的做法“不符合负责任渔业政策的最佳利益”。",
+        "url":"http://www.seafoodnews.com/Story/1089316/UK-Retailers-Express-Concerns-Over-Sustainable-Tuna"
+      },
+      {
+        "id":7,
+        "dateImg":"static/assets/019_07.jpg",
+        "imgTitle":"2017年上海创下活鲜海鲜进口新纪录",
+        "dateTime":"根据上海出入境检验检疫局的数据，2017年上海进口5.29万批次活海鲜，价值8.1亿美元，比2016年分别增长9％和19％。2017年进口值已接近2010年的七倍。这些海产品进口主要来自美国、菲律宾、新西兰、英国和马达加斯加等42个国家和地区。",
+        "url":"http://www.seafoodnews.com/Story/1089273/Shanghai-Sets-New-Live-Seafood-Import-Record-in-2017"
+      },
+      {
+        "id":8,
+        "dateImg":"static/assets/019_08.jpg",
+        "imgTitle":"厄瓜多尔白虾出口同比增长17％",
+        "dateTime":"厄瓜多尔白虾对中国和越南的出口飙升，对美国市场保持稳定。",
+        "url":"http://www.intrafish.com/news/1415547/ecuador-shrimp-exports-up-17-percent-year-on-year"
+      }
+    ]
+  },
+  "ad":[
+    { "dateImg":"","url":""}
+  ],
+  "products":{
+    "tips":"今日聚焦",
+    "title":"海鲜产品",
+    "data":[
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      },
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      }
+    ]
+  }
+}

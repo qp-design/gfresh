@@ -1,0 +1,84 @@
+{
+  "date":"1月23号. 2018",
+  "title":"周二海鲜",
+  "news":{
+    "tipsD":"周二聚焦",
+    "title":"供应和贸易",
+    "data":[
+      {
+        "id": 1,
+        "dateImg": "static/assets/0123_01.jpg",
+        "imgTitle": "厄瓜多尔虾产品加工商在价格下滑形势下寻求更高附加值",
+        "dateTime": "厄瓜多尔虾产品价格商正在增加具有附加值的虾产品产量，主要由于近一个季度虾产品价格不断下滑。 同时，2017年的数据显示，该国虾出口总额同比增长17％。",
+        "url": "https://www.undercurrentnews.com/2018/01/22/ecuadorian-shrimp-packers-switch-to-value-added-amid-price-slide/"
+      },
+      {
+        "id":2,
+        "dateImg":"static/assets/0123_02.jpg",
+        "imgTitle":"中国暂停进口法国Huitres Geay出产的生蚝，同时生蚝产品营销热情不减",
+        "dateTime":"中国有关部门近日已经发布禁止进口著名法国牡蛎品牌的禁令，同时高价的贝壳类产品营销在农历新年前加快步伐。在香港通报有关食用该品牌牡蛎发生食物中毒案件后，中国国家质检总局于1月6日和7日发出通知，禁止、进口和销售法国Huitres Geay品牌出产的牡蛎。 香港有关部门在全国实施进口禁令之前也发布了类似的通知。",
+        "url":"https://www.seafoodsource.com/news/food-safety-health/beijing-oyster-marketing-blitz-dented-by-ban-on-french-huitres-geay-oysters"
+      },
+      {
+        "id":3,
+        "dateImg":"static/assets/0123_03.jpg",
+        "imgTitle":"亚马逊收购Whole Foods品牌后百货类销售业绩不断上涨",
+        "dateTime":"继亚马逊去年夏季完成对Whole Foods的收购之后，其生鲜海鲜及其他易腐产品的销售量猛增。Whole Foods的自有产品线对亚马逊总体百货类销售贡献颇丰。 亚马逊预计已销售价值约1100万美元（900万欧元）Whole Foods的365 Everyday Value天然及有机产品，其中包括如冷冻鱼棒和长鳍金枪鱼罐头等海产品。",
+        "url":"https://www.seafoodsource.com/news/foodservice-retail/amazons-grocery-sales-booming-after-whole-foods-acquisition"
+      },
+      {
+        "id":4,
+        "dateImg":"static/assets/0123_04.jpg",
+        "imgTitle":"中国企业在与密克罗尼西亚签约后首次展出金枪鱼产品",
+        "dateTime":"深圳联成远洋渔业有限公司是中国一家综合性的远洋渔业公司，近日在广州参展大型展会，展示源于太平洋岛国的金枪鱼产品。今年年初，联成公司与密克罗尼西亚政府签署有关在Yap岛建立渔港的协议。 密克罗尼西亚联邦位于西太平洋，是由四个州组成的主权国家。",
+        "url":"https://www.seafoodsource.com/news/supply-trade/chinese-firm-showcases-tuna-catch-after-deal-with-micronesia"
+      },
+      {
+        "id":5,
+        "dateImg":"static/assets/0123_05.jpg",
+        "imgTitle":"可持续渔业发展合作组织（SFP）报告显示，全球鱿鱼渔业仍缺乏可持续发展性",
+        "dateTime":"根据可持续渔业合作组织“目标75”倡议发布的新报告，全球仅有不到1％的鱿鱼产量可被认定为可持续发展资源或情况正在改善。据报道 ，四大鱿鱼渔业包括中国、韩国以及阿根廷短鳍鱿鱼及南美洲沿海美洲赤鱿，占全球鱿鱼产量的20％，但均未参与任何改善渔业可持续发展性的相关项目。",
+        "url":"https://www.seafoodsource.com/news/environment-sustainability/sfp-report-shows-vast-sustainability-gap-in-squid-fishing"
+      },
+      {
+        "id":6,
+        "dateImg":"static/assets/0123_06.jpg",
+        "imgTitle":"俄罗斯堪察加半岛帝王蟹产量恢复，近岸捕捞压力增大",
+        "dateTime":"巴伦支海堪察加帝王蟹数量在2017年创下历史最高纪录，今年俄罗斯政府或提高该产品的可捕捞总量，同时或废除现行的禁止沿海蟹产品生产的规定。 当地蟹产品生产者已就取消该禁令进行了相当长时间的游说。",
+        "url":"http://www.seafoodnews.com/Story/1089647/With-Red-King-Populations-Rebounding-in-Kamchatka-Pressure-Grows-to-Increase-NearshoreHarvest"
+      },
+      {
+        "id":7,
+        "dateImg":"static/assets/0123_07.jpg",
+        "imgTitle":"资本涌入中国小龙虾行业，2017年价格小龙虾不断上涨",
+        "dateTime":"中国国内养殖小龙虾大致分为四种，同时也进口红沼虾和澳大利亚淡水小龙虾。 小龙虾主要生长于长江中下游地区。 湖北、安徽、江苏、湖南、江西等五个主要水产养殖区域约占总产量的95％。 其中湖北省规模最大，总面积达487万亩（约802,270英亩），小龙虾产量达48.9万吨。",
+        "url":"http://www.seafoodnews.com/Story/1089646/Capital-Flooded-Into-Chinese-Crayfish-Industry-in-2017-as-Prices-Continue-to-Rise"
+      }
+    ]
+  },
+  "ad":[
+    { "dateImg":"","url":""}
+  ],
+  "products":{
+    "tips":"今日聚焦",
+    "title":"海鲜产品",
+    "data":[
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      },
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      }
+    ]
+  }
+}

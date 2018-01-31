@@ -1,0 +1,84 @@
+{
+  "date":"1月30号. 2018",
+  "title":"周二海鲜",
+  "news":{
+    "tipsD":"周二聚焦",
+    "title":"供应和贸易",
+    "data":[
+      {
+        "id": 1,
+        "dateImg": "static/assets/0130_01.jpg",
+        "imgTitle": "美国缅因州龙虾科学研究报告预测各方面或将下滑，而经销商与州政府表示质疑",
+        "dateTime": "美国缅因州政府海洋渔业监管部门对一项新研究的可靠性表示质疑，该研究预测缅因州海湾海域龙虾数量在未来30年将急剧下滑。缅因州海湾研究所、缅因州大学和国家海洋和大气管理局建立了计算机模型，预测到2030年龙虾数量将下降40％到62％。然而，海洋资源部专员Patrick Keliher表示该政府部门将不会使用这个模型来帮助他们决定如何管理该州的龙虾渔业捕捞。",
+        "url": "http://seafood.com/Story/1090388/Maine-Lobster-Science-Study-Predicting-Decline-Hit-From-All-Sides-as-Dealers-State-Disagree"
+      },
+      {
+        "id":2,
+        "dateImg":"static/assets/0130_02.jpg",
+        "imgTitle":"加拿大圣劳伦斯湾虾类资源继续下滑，魁北克虾类加工商将进一步下调加工产量",
+        "dateTime":"加拿大魁北克近日举行第40届工业渔业大会（AQIP），行业加工商在会议上似乎对2018年的虾产量持悲观态度。2月6日和7日召开的会议上将讨论有关虾类资源的切实科学建议，但是Pêcheries Marinard公司CEO Pascal Noël表示，这一下降幅度可能比2017年的30％还要更高。",
+        "url":"http://seafood.com/Story/1090416/Further-Cuts-Likely-for-Quebec-Shrimp-Processors-as-Gulf-of-St-Lawrence-Stocks-Continue-to-Decline"
+      },
+      {
+        "id":3,
+        "dateImg":"static/assets/0130_03.jpg",
+        "imgTitle":"金色帝王蟹和红眼雪蟹首次获得阿拉斯加RFM计划认证",
+        "dateTime":"白令海和阿留申群岛的五类螃蟹渔业均达到阿拉斯加负责任渔业管理计划的严格要求，该计划是阿拉斯加海产品营销协会（ASMI）旗下的认证体系，其中金色帝王蟹和红眼雪蟹是首次获得认证。1月18日，ASMI最新认证的渔业为东白令海红眼雪蟹和阿留申群岛金色帝王蟹。重新认证的渔业有布里斯托尔湾红帝王蟹、圣马太岛蓝帝王蟹和东白令海雪蟹。",
+        "url":"http://seafood.com/Story/1090390/Golden-King-Crab-Bairdi-Certified-for-First-Time-Under-Alaskas-RFM-Program"
+      },
+      {
+        "id":4,
+        "dateImg":"static/assets/0130_04.jpg",
+        "imgTitle":"印度当前财政年度海鲜产品出口额达60亿美元",
+        "dateTime":"印度海鲜业的利益相关方均乐观认为，随着目前的印度水产养殖生产规模和步伐的加快，未来几年海鲜产品的养殖总面积将达到5亿卢比。",
+        "url":"http://seafood.com/Story/1090387/MPEDA-Seafood-Exports-to-Cross-6-Billion-USD-in-Current-Fiscal"
+      },
+      {
+        "id":5,
+        "dateImg":"static/assets/0130_05.jpg",
+        "imgTitle":"墨西哥海湾虾2017年捕捞量达到1亿磅，虽有所改善，但仍是2010年以来的第二低总量",
+        "dateTime":"墨西哥国家海洋渔业局发布2017年墨西哥湾虾捕捞量报告。2017年12月，（所有种类，无头）虾捕捞总量总计664.4万磅。2016年12月则为584.8万磅，累积总额为1000.8万磅。 2016年1月至12月总计9382万磅，同比增加6.67％（或625万磅）。虽然同比有所改善，但最近两次的捕捞仍是2010年以来的最低水平。",
+        "url":"http://seafood.com/Story/1090412/Gulf-Shrimp-Landings-Hit-100-Million-lbs-in-2017-an-Improvement-but-Still-2nd-Lowest-Since-2010"
+      },
+      {
+        "id":6,
+        "dateImg":"static/assets/0130_06.jpg",
+        "imgTitle":"白令海域已完成77％的红眼雪蟹配额和30%的雪蟹配额捕捞",
+        "dateTime":"海神叉公司位于圣保罗的海鲜加工工厂上周异常繁忙，向Akutan和荷兰港交付红眼雪蟹和白令雪蟹产品。截至昨天，超过540万英镑的白令海雪蟹已完成捕捞，年度总配额为1896万磅。",
+        "url":"http://seafood.com/Story/1090365/77-percent-of-Tanner-Crab-Quota-and-30-percent-of-Snow-Crab-Quota-Now-Landed-in-the-Bering-Sea"
+      },
+      {
+        "id":7,
+        "dateImg":"static/assets/0130_07.jpg",
+        "imgTitle":"美国和加拿大未就年度比目鱼捕捞配额削减达成一致",
+        "dateTime":"国际太平洋大比目鱼委员会（International Pacific Halibut Commission）上周五为2018年设定了2803万磅的“建议”捕捞量，同比减少了1070万磅，去年已为数十年来首次提高捕捞量。阿拉斯加的配额可能为2052万英镑，比2017年下降了210万英镑。",
+        "url":"http://seafood.com/Story/1090383/US-and-Canada-Fail-to-Agree-on-Cuts-to-Annual-Halibut-Harvest"
+      }
+    ]
+  },
+  "ad":[
+    { "dateImg":"","url":""}
+  ],
+  "products":{
+    "tips":"今日聚焦",
+    "title":"海鲜产品",
+    "data":[
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      },
+      {
+        "dateImg":"static/assets/0_03.png",
+        "imgTitle":"岩龙虾",
+        "dateTime":"5个商家在卖",
+        "price":"98.95",
+        "priceImg":"static/assets/jian_57.png",
+        "url":"#"
+      }
+    ]
+  }
+}
